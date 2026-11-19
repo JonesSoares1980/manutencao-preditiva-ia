@@ -1,6 +1,10 @@
 # manutencao-preditiva-ia
 # Pipeline Preditivo de Manutenção Industrial (Indústria 4.0)
 
+## Apresentação em Vídeo
+Assista à demonstração técnica e discussão dos resultados:https://vimeo.com/1248387800
+
+
 Projeto de Ciência de Dados e Aprendizado de Máquina Supervisionado voltado à previsão de falhas em equipamentos fabris a partir de telemetria de sensores (temperatura, rotação, torque e desgaste de ferramenta).
 
 ## Estrutura do Repositório
